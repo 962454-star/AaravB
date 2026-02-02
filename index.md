@@ -1,4 +1,4 @@
-# Hi, I'm <Aaarav Batua>
+# Hi, I'm Aarav Batua
 Welcome to my ICS4U portfolio. I’ll use this site to post my work and reflections.
 
 ## Highlights
