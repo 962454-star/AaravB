@@ -2,9 +2,9 @@
 Welcome to my ICS4U portfolio. I’ll use this site to post my work and reflections.
 
 ## Highlights
-- 🔧 Project 1: *(title)* – *(1–2 lines about what it does)*
-- 🧠 Concept I learned: *(short note)*
-- 📝 Blog/Reflection: [Reflection #1](./posts/first_reflection.md)
+- 🔧 Project 1 (Currently in progress): *Researching Physical Health Issues That Stem From Computer Use* – *Combining medicine and computer usage by tying orthopedic physical health issues with increase screen time*
+- 🧠 Concept I learned: *(in progress)*
+- 📝 Blog/Reflection: *(in progress)*
 
 ## About me
 
