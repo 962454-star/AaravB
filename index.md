@@ -2,7 +2,7 @@
 Welcome to my ICS4U portfolio. I’ll use this site to post my work and reflections.
 
 ## Highlights
-- 🔧 Project 1 (Currently in progress): *Researching Physical Health Issues That Stem From Computer Use* – *Combining medicine and computer usage by tying orthopedic physical health issues with increase screen time*
+- 🔧 Project 1 (Currently in progress): *Researching Physical Health Issues That Stem From Computer Use* – *Combining medicine and computer usage by tying orthopedic physical health issues with increased screen time*
 - 🧠 Concept I learned: *(in progress)*
 - 📝 Blog/Reflection: *(in progress)*
 
