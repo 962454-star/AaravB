@@ -14,7 +14,7 @@ Welcome to my ICS4U portfolio. I’ll use this site to post my work and reflecti
 
 🔗 "You have a right to perform your prescribed duties, but you are not entitled to the fruits of your actions. Never consider yourself to be the cause of the results of your activities, nor be attached to inaction." ―Bhagwan Krishna, Bhagavad Gita 2.47"
 
-## Extracurricular Activities:
+## Extracurricular Activities
 
 ### (2023-Present) The Hindu Student Association, Port Credit Secondary School, Mississauga, ON
 *The President*
