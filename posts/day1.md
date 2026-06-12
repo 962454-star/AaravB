@@ -4,4 +4,4 @@ The concepts I implemented today were variables and data-tracking. My entire ses
 
 [Daily Logs](dailylogs.md)
 
-[Main Page](.../index.md)
+[Main Page](../index.md)
